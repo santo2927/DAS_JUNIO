@@ -1,6 +1,35 @@
 <h1>DAS_JUNIO</h1>
+<h2>ÍNDICE</h2>
+<ol>
+  <li><a href ="#requisitos">REQUISITOS</a></li>
+  <li><a href ="#tiempos">TABLA TIEMPOS</a></li>
+  <li><a href ="#iter-1">ITERACIÓN 1</a>
+    <ol>
+      <li><a href = "#iter-1-decitions">DECISIONES</a></li>
+      <li><a href = "#iter-1-uml">UML</a></li>
+    </ol>
+  </li>
+  <li><a href ="#iter-2">ITERACIÓN 2</a>
+    <ol>
+      <li><a href = "#iter-2-decitions">DECISIONES</a></li>
+      <li><a href = "#iter-2-uml">UML</a></li>
+    </ol>
+  </li>
+  <li><a href ="#iter-3">ITERACIÓN 3</a>
+    <ol>
+      <li><a href = "#iter-3-decitions">DECISIONES</a></li>
+      <li><a href = "#iter-3-uml">UML</a></li>
+    </ol>
+  </li>
+  <li><a href ="#iter-final">ITERACIÓN FINAL</a>
+    <ol>
+      <li><a href = "#iter-final-decitions">DECISIONES</a></li>
+      <li><a href = "#iter-final-uml">UML</a></li>
+    </ol>
+  </li>
+</ol>
 <br>
-<h2>REQUISITOS</h2>
+<h2 id="requisitos">REQUISITOS</h2>
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 25%; text-align: justify;">Nº DEL REQUISITO</td>
@@ -76,7 +105,7 @@
   </tr>
 </table>
 <br>
-<h2>TABLA DE TIEMPOS</h2>
+<h2 id ="tiempos">TABLA DE TIEMPOS</h2>
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 17%;">Semana</td>
@@ -128,40 +157,40 @@
   </tr>
 </table>
 <br>
-<h2>ITERACIÓN 1</h2>
-<h3>DECISIONES</h3>
+<h2 id = "iter-1">ITERACIÓN 1</h2>
+<h3 id ="iter-1-decitions">DECISIONES</h3>
 <ul>
-  <li href="ejemplo">Ejemplo decision</li>
+  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
 </ul>
 <br>
-<h3>UML ITERACION 1</h3>
+<h3 id ="iter-1-uml">UML</h3>
 <img src="uml-iter1.png">
 <br>
-<h2>ITERACIÓN 2</h2>
-<h3>DECISIONES</h3>
+<h2 id = "iter-2">ITERACIÓN 2</h2>
+<h3 id ="iter-2-decitions">DECISIONES</h3>
 <ul>
-  <li href="ejemplo">Ejemplo decision</li>
+  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
 </ul>
 <br>
-<h3>UML ITERACION 2</h3>
+<h3 id="iter-2-uml">UML</h3>
 <img src="uml-iter2.png">
 <br>
-<h2>ITERACIÓN 3</h2>
-<h3>DECISIONES</h3>
+<h2 id = "iter-3">ITERACIÓN 3</h2>
+<h3 id ="iter-3-decitions">DECISIONES</h3>
 <ul>
-  <li href="ejemplo">Ejemplo decision</li>
+  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
 </ul>
 <br>
-<h3>UML TRAS LA ITERACION</h3>
+<h3 id ="iter-3-uml">UML</h3>
 <img src="uml-iter3.png">
 <br>
-<h2>ITERACIÓN FINAL</h2>
-<h3>DECISIONES</h3>
+<h2 id = "iter-final">ITERACIÓN FINAL</h2>
+<h3 id ="iter-final-decitions">DECISIONES</h3>
 <ul>
-  <li href="ejemplo">Ejemplo decision</li>
+  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
 </ul>
 <br>
-<h3>UML TRAS LA ITERACION</h3>
+<h3 id ="iter-final-uml">UML</h3>
 <img src="uml-final.png">
 <br>
 
