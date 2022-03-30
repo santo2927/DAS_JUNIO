@@ -160,7 +160,7 @@
 <h2 id = "iter-1">ITERACIÓN 1</h2>
 <h3 id ="iter-1-decitions">DECISIONES</h3>
 <ul>
-  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
+  <li><a href = "./MADR_FORMAT.md">Ejemplo decision</a></li>
 </ul>
 <br>
 <h3 id ="iter-1-uml">UML</h3>
@@ -169,7 +169,7 @@
 <h2 id = "iter-2">ITERACIÓN 2</h2>
 <h3 id ="iter-2-decitions">DECISIONES</h3>
 <ul>
-  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
+  <li><a href = "./MADR_FORMAT.md">Ejemplo decision</a></li>
 </ul>
 <br>
 <h3 id="iter-2-uml">UML</h3>
@@ -178,7 +178,7 @@
 <h2 id = "iter-3">ITERACIÓN 3</h2>
 <h3 id ="iter-3-decitions">DECISIONES</h3>
 <ul>
-  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
+  <li><a href = "./MADR_FORMAT.md">Ejemplo decision</a></li>
 </ul>
 <br>
 <h3 id ="iter-3-uml">UML</h3>
@@ -187,7 +187,7 @@
 <h2 id = "iter-final">ITERACIÓN FINAL</h2>
 <h3 id ="iter-final-decitions">DECISIONES</h3>
 <ul>
-  <li><a href = "./ejemplo.md">Ejemplo decision</a></li>
+  <li><a href = "./MADR_FORMAT.md">Ejemplo decision</a></li>
 </ul>
 <br>
 <h3 id ="iter-final-uml">UML</h3>
