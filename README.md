@@ -126,14 +126,42 @@
     <td style="width: 17%;">X</td>
     <td style="width: 17%;">X</td>
   </tr>
-  <tr>
-    <td style="width: 17%;">4</td>
-    <td style="width: 17%;">Iteración</td>
-    <td style="width: 17%;">Tiempo en ADD</td>
-    <td style="width: 17%;">Tiempo de reflexión</td>
-    <td style="width: 17%;">Tiempo de refinado</td>
-    <td style="width: 17%;">Tiempo de diseño</td>
-  </tr>
-  
 </table>
+<br>
+<h2>ITERACIÓN 1</h2>
+<h3>DECISIONES</h3>
+<ul>
+  <li href="ejemplo">Ejemplo decision</li>
+</ul>
+<br>
+<h3>UML ITERACION 1</h3>
+<img src="uml-iter1.png">
+<br>
+<h2>ITERACIÓN 2</h2>
+<h3>DECISIONES</h3>
+<ul>
+  <li href="ejemplo">Ejemplo decision</li>
+</ul>
+<br>
+<h3>UML ITERACION 2</h3>
+<img src="uml-iter2.png">
+<br>
+<h2>ITERACIÓN 3</h2>
+<h3>DECISIONES</h3>
+<ul>
+  <li href="ejemplo">Ejemplo decision</li>
+</ul>
+<br>
+<h3>UML TRAS LA ITERACION</h3>
+<img src="uml-iter3.png">
+<br>
+<h2>ITERACIÓN FINAL</h2>
+<h3>DECISIONES</h3>
+<ul>
+  <li href="ejemplo">Ejemplo decision</li>
+</ul>
+<br>
+<h3>UML TRAS LA ITERACION</h3>
+<img src="uml-final.png">
+<br>
 
