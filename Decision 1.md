@@ -26,13 +26,12 @@ Opción escogida: "Dividir en microservicios solo la capa de negocio", porque al
 
 ### Consecuencias positivas <!-- opcional -->
 
-* {consecuencia 1}
-* …
+* Ayudará a que toda la aplicación esté más centralizada.
+* Cada vez que se añada un mocroservicio, este contará con su enlace pertinente a la base de datos donde se almacene su localización.
 
 ### Consecuencias negativas <!-- opcional -->
 
-* {e.g., compromising quality attribute, follow-up decisions required, …}
-* …
+* Será difícil añadir funcionalidades fuera de la capa de negocios, disminuyendo así la escalabilidad.
 
 ## Pros y contras de las opciones
 
