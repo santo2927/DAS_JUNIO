@@ -1,6 +1,6 @@
 # Decisión sobre el estilo arquitectónico
 
-* Estado: propuesto
+* Estado: Aceptado
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/02
 
@@ -22,7 +22,7 @@ Se necesita un estilo arquitectónico del que partir para, desde ahí, empezar a
 
 ## Resultado de la decisión
 
-Opción escogida: "{option n}", porque {justificación, escoger solo una opción que resuelve el problema}.
+Opción escogida: "Dividir en microservicios solo la capa de negocio", porque al no tener que dividir todas las capas en microservicios, requiere menos trabajo y tanto la base de datos como la interfaz de usuario se mantendrían igual.
 
 ### Consecuencias positivas <!-- opcional -->
 
