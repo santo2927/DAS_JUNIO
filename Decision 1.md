@@ -17,7 +17,7 @@ Se necesita un estilo arquitectónico del que partir para, desde ahí, empezar a
 
 ## Opciones consideradas
 
-* Partir, del estilo por capas del que procedemos, solamente la capa de negocio en microservicios y mantener las capas de bases de datos y de usuario
+* Partiendo del estilo por capas del que procedemos, dividir solamente la capa de negocio en microservicios y mantener las capas de bases de datos y de usuario
 * Dividir todas las funcionalidades de el previo estilo por capas en distintos microservicios
 
 ## Resultado de la decisión
