@@ -1,6 +1,6 @@
 # Decisión sobre el estilo arquitectónico
 
-* Estado: Aceptado
+* Estado: Finalizada
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/02
 
