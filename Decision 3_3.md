@@ -26,7 +26,7 @@ Opción escogida: "Utilizar ambas cosas", porque así conseguimos mayor segurida
 
 ### Consecuencias positivas <!-- opcional -->
 
-* La seguridad de nuestro sistema aumenta más que si implementaramos solo un sistema de hash o un sistema de doble verificación.
+* La seguridad de nuestro sistema aumentaría más que si implementaramos solo un sistema de hash o un sistema de doble verificación.
 
 ### Consecuencias negativas <!-- opcional -->
 
