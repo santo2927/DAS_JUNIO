@@ -20,7 +20,7 @@ La aplicación ha de distribuir la anterior capa de negocio en microservicios y 
 ## Opciones consideradas
 
 * Comunicar los microservicios todos con todos
-* Partir la comunicación entre los microservicios, especificandola y minimiando el número de canales de comunciación
+* Partir la comunicación entre los microservicios, especificandola y minimizando el número de canales de comunciación
 * Quitar los canales de comunicación entre microservicios y únicamente mantener su comunicación a través del Gateway
 
 ## Resultado de la decisión
