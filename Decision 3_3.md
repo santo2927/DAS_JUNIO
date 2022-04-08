@@ -1,6 +1,6 @@
 # Decisión sobre los distintos módulos de la aplicación
 
-* Estado: propuesto
+* Estado: Finalizada
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/05
 
@@ -22,17 +22,15 @@ La aplicación tiene que ser segura en compras
 
 ## Resultado de la decisión
 
-Opción escogida: "{option n}", porque {justificación, escoger solo una opción que resuelve el problema}.
+Opción escogida: "Utilizar ambas cosas", porque así conseguimos mayor seguridad con respecto a la autenticidad de nuestros usuarios.
 
 ### Consecuencias positivas <!-- opcional -->
 
-* {consecuencia 1}
-* …
+* La seguridad de nuestro sistema aumenta más que si implementaramos solo un sistema de hash o un sistema de doble verificación.
 
 ### Consecuencias negativas <!-- opcional -->
 
-* {e.g., compromising quality attribute, follow-up decisions required, …}
-* …
+* Tendríamos más elementos que mantener, por lo que los costes aumentarían.
 
 ## Pros y contras de las opciones
 
