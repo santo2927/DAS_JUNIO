@@ -1,6 +1,6 @@
 # Decisión sobre los distintos módulos de la aplicación
 
-* Estado: propuesto
+* Estado: Finalizada
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/05
 
@@ -21,17 +21,15 @@ La aplciación debe tener un módulo de mensajería soportado por un middleware 
 
 ## Resultado de la decisión
 
-Opción escogida: "{option n}", porque {justificación, escoger solo una opción que resuelve el problema}.
+Opción escogida: "Soportar el módulo de mensajería como una capa horizontal debajo de la capa de negocio", porque tendremos más independencia, al no depender de entidades externas.
 
 ### Consecuencias positivas <!-- opcional -->
 
-* {consecuencia 1}
-* …
+* No tendremos que contactar continuamente con una empresa externa en caso de que suceda cualquier problema con el módulo.
 
 ### Consecuencias negativas <!-- opcional -->
 
-* {e.g., compromising quality attribute, follow-up decisions required, …}
-* …
+* Habría que realizar la gestión del middleware independiente RabbitMQ al no disponer de una entidad externa.
 
 ## Pros y contras de las opciones
 
