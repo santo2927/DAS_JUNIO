@@ -1,6 +1,6 @@
 # Decisión sobre los distintos módulos de la aplicación
 
-* Estado: propuesto
+* Estado: Finalizada
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/05
 
@@ -21,17 +21,16 @@ La aplciación debe de permitir gestionar pagos y poder validarlos.
 
 ## Resultado de la decisión
 
-Opción escogida: "{option n}", porque {justificación, escoger solo una opción que resuelve el problema}.
+Opción escogida: "Tener una comunicación directa con banco central que gestione y valide la compra", porque nos interesa tener todo centralizado en nuestra aplicación y no depender de empresas externas.
 
 ### Consecuencias positivas <!-- opcional -->
 
-* {consecuencia 1}
-* …
+* Ahorramos tiempo y por tanto dinero al tener una comunicación directa 
+* Reducimos dependencias
 
 ### Consecuencias negativas <!-- opcional -->
 
-* {e.g., compromising quality attribute, follow-up decisions required, …}
-* …
+* Muchos costes de mantenimiento de esta comunicación
 
 ## Pros y contras de las opciones
 
