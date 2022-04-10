@@ -27,12 +27,18 @@ La aplicación ha de distribuir la anterior capa de negocio en microservicios y 
 
 Opción escogida: "Partir la comunicación entre los microservicios, especificandola y minimiando el número de canales de comunciación", porque de esta manera podremos elegir que microservicios se comunican entre si.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias neutras
+
+* Los microservicios de preferencias y de pedidos y compras estaran ligados únicamente a sus respectivas bases de datos, siendo el único acceso a ellas pues son las únicas que las utilizan. 
+* El microservicio de devoluciones ha de comunicarse con el microservicio de compras para verificar que la compra se haya hecho y que la ha hecho el cliente que esté pidiéndolo.
+* El gateway se pondrá como elemento semi-externo de la capa de negocio
+
+### Consecuencias positivas 
 
 * Al minimizar el número de canales podemos tomar la elección de qué microservicios se comunican entre si. 
 * Se generarán menos dependencias de cara al futuro.
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas 
 
 * Si se gestiona mal una conexión se puede general código inutil y podríamos llegar a tener datos inaccesibles.
 

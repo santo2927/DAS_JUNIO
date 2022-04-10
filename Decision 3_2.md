@@ -23,11 +23,11 @@ La aplciación debe tener un módulo de mensajería soportado por un middleware 
 
 Opción escogida: "Soportar el módulo de mensajería como una capa horizontal debajo de la capa de negocio", porque tendremos más independencia, al no depender de entidades externas.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias positivas
 
 * No tendremos que contactar continuamente con una empresa externa en caso de que suceda cualquier problema con el módulo.
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas
 
 * Habría que realizar la gestión del middleware independiente RabbitMQ al no disponer de una entidad externa.
 

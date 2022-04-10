@@ -24,11 +24,11 @@ La aplicación tiene que ser segura en compras
 
 Opción escogida: "Utilizar ambas cosas", porque así conseguimos mayor seguridad con respecto a la autenticidad de nuestros usuarios.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias positivas
 
 * La seguridad de nuestro sistema aumentaría más que si implementaramos solo un sistema de hash o un sistema de doble verificación.
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas
 
 * Tendríamos más elementos que mantener, por lo que los costes aumentarían.
 
