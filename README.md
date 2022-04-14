@@ -94,8 +94,8 @@
   <tr>
     <td style="width: 25%;">RF3</td>
     <td style="width: 25%;">Coherencia entre las bases de datos.</td>
-    <td style="width: 25%;">La coherencia entre las distintas bases de datos se certificará mediante a través de un bus de eventos lógicos. El cliente sugiere que utilicen tecnología de mensajería como RabbitMQ o un “bus” dedicado como Azure Service Bus.</td>
-    <td style="width: 25%;">X</td>
+    <td style="width: 25%;">La coherencia entre las distintas bases de datos se gestionará mediante un bus de eventos lógicos. El cliente sugiere que utilicen tecnología de mensajería como RabbitMQ o un “bus” dedicado como Azure Service Bus.</td>
+    <td style="width: 25%;"><a href="./Decision%204.md">Decision 4</a></td>
   </tr>
 </table>
 <br>
@@ -136,7 +136,7 @@
   <tr>
     <td style="width: 17%;">3</td>
     <td style="width: 17%;">4</td>
-    <td style="width: 17%;">X</td>
+    <td style="width: 17%;">120</td>
     <td style="width: 17%;">X</td>
     <td style="width: 17%;">X</td>
     <td style="width: 17%;">X</td>
@@ -175,7 +175,7 @@
 <h2 id = "iter-3">ITERACIÓN 3</h2>
 <h3 id ="iter-3-decitions">DECISIONES</h3>
 <ul>
-  <li><a href = "./MADR_FORMAT.md">Ejemplo decision</a></li>
+  <li><a href="./Decision%204.md">Decision 4</a></li>
 </ul>
 <br>
 <h3 id ="iter-3-uml">UML</h3>
