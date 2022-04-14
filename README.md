@@ -94,7 +94,7 @@
   <tr>
     <td style="width: 25%;">RF3</td>
     <td style="width: 25%;">Coherencia entre las bases de datos.</td>
-    <td style="width: 25%;">La coherencia entre las distintas bases de datos se certificará mediante a través de un bus de eventos lógicos. El cliente sugiere que utilicen tecnología de mensajería como RabbitMQ o un “bus” dedicado como Azure Service Bus.</td>
+    <td style="width: 25%;">La coherencia entre las distintas bases de datos se gestionará mediante un bus de eventos lógicos. El cliente sugiere que utilicen tecnología de mensajería como RabbitMQ o un “bus” dedicado como Azure Service Bus.</td>
     <td style="width: 25%;"><a href="./Decision%204.md">Decision 4</a></td>
   </tr>
 </table>
