@@ -22,7 +22,7 @@ La aplicación tiene que ser segura en compras
 
 ## Resultado de la decisión
 
-Opción escogida: "Gestionar la coherencia entre las bases de datos a través de un bus dedicado como Azure Service Bus", .
+Opción escogida: "Gestionar la coherencia entre las bases de datos a traves de un sistema de mensajería como RabbitMQ", .
 
 ### Consecuencias positivas
 
