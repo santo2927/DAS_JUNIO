@@ -22,7 +22,7 @@ La aplicación tiene que ser segura en compras
 
 ## Resultado de la decisión
 
-Opción escogida: "X", .
+Opción escogida: "Gestionar la coherencia entre las bases de datos a través de un bus dedicado como Azure Service Bus", .
 
 ### Consecuencias positivas
 
