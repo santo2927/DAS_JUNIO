@@ -1,6 +1,6 @@
 # Decisión sobre la coherencia entre las distintas bases de datos
 
-* Estado: Propuesta
+* Estado: Finalizada
 * Decisores: Alejandro Fernández San Román
 * Fecha: 2022/04/14
 
