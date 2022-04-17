@@ -30,7 +30,7 @@ Opción escogida: "Gestionar la coherencia entre las bases de datos a traves de 
 
 ### Consecuencias negativas
 
-* En cuanto al tema de escalabilidad y persistencia se òdrian llegar a reportar ciertos fallos.
+* En cuanto al tema de escalabilidad y persistencia se podrían llegar a reportar ciertos fallos.
 
 ## Pros y contras de las opciones
 
