@@ -22,11 +22,13 @@ La aplicación tiene que ser segura en compras
 
 ## Resultado de la decisión
 
-Opción escogida: "Gestionar la coherencia entre las bases de datos a traves de un sistema de mensajería como RabbitMQ", porque nos permite tener una mayor escalabilidad, al no tener límites predefinidos, y rendimiento que un Azure Service Bus.
+Opción escogida: "Gestionar la coherencia entre las bases de datos a traves de un sistema de mensajería como RabbitMQ", porque nos permite tener una mayor escalabilidad, al no tener límites predefinidos, y rendimiento que con Azure Service Bus.
 
 ### Consecuencias positivas
 
-* X
+* Al ser más portable podríamos cambiar más fácilmente de proveedor
+* Podríamos introducir otras tecnologías que vayamos necesitando gracias a las diversas librerías implementadas
+* Nuestra aplicación escalaría más fácilmente 
 
 ### Consecuencias negativas
 
