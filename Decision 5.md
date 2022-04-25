@@ -21,12 +21,12 @@ La aplicación una vez esté en funcionamiento una gran cantidad de peticiones d
 
 ## Resultado de la decisión
 
-Opción escogida: "{option n}", porque {justificación, escoger solo una opción que resuelve el problema}.
+Opción escogida: "Crear una clase limitante, que gestione todas las peticiones de todos los usuarios.", porque nos permite tener un contador que disminuya la probabilidad de error y no rompemos ninguna idea.
 
 ### Consecuencias positivas <!-- opcional -->
 
-* {consecuencia 1}
-* …
+* Conseguimos ahorrar espacio en la base de datos
+* Si hay algún fallo este no se propagará
 
 ### Consecuencias negativas <!-- opcional -->
 
