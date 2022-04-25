@@ -1,6 +1,6 @@
 # Decisión sobre la limitación de intentos de compra
 
-* Estado: Propuesto  
+* Estado: Finalizado
 * Decisores: Alejandro Fernandez San Roman, Gabriel Fuentes Villasevil 
 * Fecha: 2022-04-20 
 
