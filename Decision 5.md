@@ -23,17 +23,17 @@ La aplicación una vez esté en funcionamiento una gran cantidad de peticiones d
 
 Opción escogida: "Crear una clase limitante, que gestione todas las peticiones de todos los usuarios.", porque nos permite tener un contador que disminuya la probabilidad de error y no rompemos ninguna idea.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias positivas 
 
 * Conseguimos ahorrar espacio en la base de datos
 * Si hay algún fallo este no se propagará
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas 
 
 * Pueden producirse tiempos de espera innecesarios
 * Complejidad de testing
 
-## Pros y contras de las opciones <!-- opcional -->
+## Pros y contras de las opciones 
 
 ### Añadir un contador de intentos de compra a cada usuario.
 
