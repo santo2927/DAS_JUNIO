@@ -131,7 +131,7 @@
     <td style="width: 17%;">40</td>
     <td style="width: 17%;">20</td>
     <td style="width: 17%;">20</td>
-    <td style="width: 17%;">100</td>
+    <td style="width: 17%;">130</td>
   </tr>
   <tr>
     <td style="width: 17%;">3</td>
@@ -147,7 +147,7 @@
     <td style="width: 17%;">200</td>
     <td style="width: 17%;">35</td>
     <td style="width: 17%;">15</td>
-    <td style="width: 17%;">200</td>
+    <td style="width: 17%;">810</td>
   </tr>
 </table>
 <br>
