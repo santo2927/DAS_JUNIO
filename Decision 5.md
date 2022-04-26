@@ -17,11 +17,11 @@ La aplicación una vez esté en funcionamiento una gran cantidad de peticiones d
 ## Opciones consideradas
 
 * Añadir un contador de intentos de compra a cada usuario.
-* Crear una clase limitante, que gestione todas las peticiones de todos los usuarios.
+* Usar un patrón Circuit Breaker, que gestione todas las peticiones de todos los usuarios.
 
 ## Resultado de la decisión
 
-Opción escogida: "Crear una clase limitante, que gestione todas las peticiones de todos los usuarios.", porque nos permite tener un contador que disminuya la probabilidad de error y no rompemos ninguna idea.
+Opción escogida: "Usar un patrón circuit Breaker, que gestione todas las peticiones de todos los usuarios.", porque nos permite tener un contador que disminuya la probabilidad de error y no rompemos ninguna idea.
 
 ### Consecuencias positivas 
 
@@ -32,6 +32,10 @@ Opción escogida: "Crear una clase limitante, que gestione todas las peticiones 
 
 * Pueden producirse tiempos de espera innecesarios
 * Complejidad de testing
+
+### Consecuencias neutras
+
+* Se usará un patrón circuit breaker que limitará la conexión entre los usuarios y el módulo de compras.
 
 ## Pros y contras de las opciones 
 
