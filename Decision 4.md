@@ -8,7 +8,7 @@ Descripción técnica: Se necesita que exista coherencia entre las distintas bas
 
 ## Contexto y declaración del problema
 
-La aplicación tiene que ser segura en compras
+La aplicación ha de mantenter la coherencia entre las distintas bases de datos
 
 ## Motivos de la decision 
 
