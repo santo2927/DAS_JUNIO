@@ -30,8 +30,8 @@ Opción escogida: "Crear una clase limitante, que gestione todas las peticiones 
 
 ### Consecuencias negativas <!-- opcional -->
 
-* {e.g., compromising quality attribute, follow-up decisions required, …}
-* …
+* Pueden producirse tiempos de espera innecesarios
+* Complejidad de testing
 
 ## Pros y contras de las opciones <!-- opcional -->
 
