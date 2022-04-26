@@ -35,7 +35,7 @@ Opción escogida: "Usar un patrón circuit Breaker, que gestione todas las petic
 
 ### Consecuencias neutras
 
-* Se usará un patrón circuit breaker que limitará la conexión entre los usuarios y el módulo de compras.
+* Se usará un patrón circuit breaker que limitará la conexión entre los usuarios y el microservicio de compras.
 
 ## Pros y contras de las opciones 
 
