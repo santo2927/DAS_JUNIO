@@ -129,25 +129,25 @@
     <td style="width: 17%;">2</td>
     <td style="width: 17%;">3</td>
     <td style="width: 17%;">40</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
+    <td style="width: 17%;">20</td>
+    <td style="width: 17%;">20</td>
+    <td style="width: 17%;">100</td>
   </tr>
   <tr>
     <td style="width: 17%;">3</td>
     <td style="width: 17%;">4</td>
     <td style="width: 17%;">120</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
+    <td style="width: 17%;">25</td>
+    <td style="width: 17%;">35</td>
+    <td style="width: 17%;">150</td>
   </tr>
   <tr>
     <td style="width: 17%;">3</td>
     <td style="width: 17%;">5</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
-    <td style="width: 17%;">X</td>
+    <td style="width: 17%;">200</td>
+    <td style="width: 17%;">35</td>
+    <td style="width: 17%;">15</td>
+    <td style="width: 17%;">200</td>
   </tr>
 </table>
 <br>
