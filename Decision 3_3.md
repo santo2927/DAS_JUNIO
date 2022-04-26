@@ -24,6 +24,12 @@ La aplicación tiene que ser segura en compras
 
 Opción escogida: "Utilizar ambas cosas", porque así conseguimos mayor seguridad con respecto a la autenticidad de nuestros usuarios.
 
+### Consecuencias neutras
+
+* Se tendrá una clase en el microservico de compras encargada de hashear las compras.
+* El usuario tendrá un numero de telefono al cual verificar la compra que se está haciendo.
+* Una clase adicional en el microservicios de pedidos y compras gestionará el mensaje al usuario a través de su numero de telefono y un metodo que genera y verifica un numero aleatorio.
+
 ### Consecuencias positivas
 
 * La seguridad de nuestro sistema aumentaría más que si implementaramos solo un sistema de hash o un sistema de doble verificación.

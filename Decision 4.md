@@ -24,6 +24,11 @@ La aplicación ha de mantenter la coherencia entre las distintas bases de datos
 
 Opción escogida: "Gestionar la coherencia entre las bases de datos a traves de un sistema de mensajería como RabbitMQ", porque nos permite tener una mayor escalabilidad, al no tener límites predefinidos, y rendimiento que con Azure Service Bus.
 
+### Consecuencias neutras
+
+* Reutilizaremos el modulo de RabbitMQ de la capa de mensajería para esta función.
+* Podemos comunicar pues la capa de mensajería con la capa de bases de datos y que sea ésta la que, utilizando el mismo driver, nos asegure la coherencia con las distintas bases de datos.
+
 ### Consecuencias positivas
 
 * Al ser más portable podríamos cambiar más fácilmente de proveedor

@@ -24,12 +24,19 @@ Se necesita un estilo arquitectónico del que partir para, desde ahí, empezar a
 
 Opción escogida: "Dividir en microservicios solo la capa de negocio", porque al no tener que dividir todas las capas en microservicios, requiere menos trabajo y tanto la base de datos como la interfaz de usuario se mantendrían igual.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias neutras
+
+* Habrá 3 microservicios principales, uno dedicado a las preferencias, otro dedicado a los pedidos y compras y un último microservicio dedicado a las devoluciones.
+* La comunicación entre los microservicios se hará con REST mientras que las comunicaciones externas serán a traves de un gateway que soporta HTTP.
+* El microservicio dedicado a las devoluciones almacenará en una clase el ID de la compra así como el ID del comprador y la devolución se gestionará a partir de ello.
+* El microservicio de pedidos y compras tendrá en su interior el modelo de un producto, así como el de una compra pues no tienen sentido fuera de dichos microservicios.
+
+### Consecuencias positivas
 
 * Ayudará a que toda la aplicación esté más centralizada.
 * Cada vez que se añada un mocroservicio, este contará con su enlace pertinente a la base de datos donde se almacene su localización.
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas
 
 * Será difícil añadir funcionalidades fuera de la capa de negocios, disminuyendo así la escalabilidad.
 

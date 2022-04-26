@@ -23,12 +23,17 @@ La aplciación debe de permitir gestionar pagos y poder validarlos.
 
 Opción escogida: "Tener una comunicación directa con banco central que gestione y valide la compra", porque nos interesa tener todo centralizado en nuestra aplicación y no depender de empresas externas.
 
-### Consecuencias positivas <!-- opcional -->
+### Consecuencias neutras
+
+* Se pondrá dentro del UML como una clase el banco central para así plasmar en el diseño que la comunicación con el banco central existe.
+* Para la comunicación con el banco podemos tener una clase dentro del microservicio de compras que almacene los datos bancarios del usuario que está haciendo la compra en ese momento.
+
+### Consecuencias positivas
 
 * Ahorramos tiempo y por tanto dinero al tener una comunicación directa 
 * Reducimos dependencias
 
-### Consecuencias negativas <!-- opcional -->
+### Consecuencias negativas
 
 * Muchos costes de mantenimiento de esta comunicación
 
