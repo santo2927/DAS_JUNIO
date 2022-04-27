@@ -25,7 +25,7 @@ La aplicación ha de distribuir la anterior capa de negocio en microservicios y 
 
 ## Resultado de la decisión
 
-Opción escogida: "Partir la comunicación entre los microservicios, especificandola y minimiando el número de canales de comunciación", porque de esta manera podremos elegir que microservicios se comunican entre si.
+Opción escogida: "Partir la comunicación entre los microservicios, especificandola y minimizando el número de canales de comunciación", porque de esta manera podremos elegir que microservicios se comunican entre si.
 
 ### Consecuencias neutras
 
