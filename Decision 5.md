@@ -45,8 +45,8 @@ Opción escogida: "Usar un patrón circuit Breaker, que gestione todas las petic
 * Malo, porque en caso de fallo en la información detallada en el usuario éste podría saltarse la restricción.
 * Malo, porque rompe con la idea de que la clase usuario tenga única y exclusivamente datos propios que se guardaran en la base de datos, por lo que usaremos memoria de más.
 
-### Crear una clase limitante, que gestione todas las peticiones de todos los usuarios.
+### Usar un patrón circuit Breaker, que gestione todas las peticiones de todos los usuarios.
 
-* Bueno, porque la información almacenada en esta clase no tendria porqué almacenarse en las bases de datos, liberando memoria.
-* Bueno, porque aunque un usuario tenga un fallo en su información el fallo no se propaga, evitando que se salte la limitación.
+* Bueno, porque el patrón circuit breaker está especialmente diseñado para resolver éste problema.
+* Bueno, porque aunque se produzca un fallo en la clase usuario, al ser un elemento distinto (el circuit breaker) no se verá afectado evitando que se salte la limitación.
 * Malo, porque su implementación es más compleja.
