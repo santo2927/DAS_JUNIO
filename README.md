@@ -189,4 +189,5 @@
 <br>
 <h3 id ="iter-final-uml">UML</h3>
 <img src="uml-final.png">
+<img src="deploy-final.png">
 <br>
